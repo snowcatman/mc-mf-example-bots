@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Thank you for visiting mc-mf-example-bots page
 
-You can use the [editor on GitHub](https://github.com/snowcatman/mc-mf-example-bots/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### This is to hopefully help you expand on learning nodejs/javascript mineflayer and examples as well as modules.
 ```markdown
-Syntax highlighted code block
+This github is for those that don't know how to code or are just wanting a refresher
 
-# Header 1
-## Header 2
-### Header 3
+!!! Beginner to Intermediate Coding !!!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snowcatman/mc-mf-example-bots/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As of Jan. 2021
+ The mineflayer pages and docs(defenantly have more info:)
+ gives you the bare bones of a starting your own do nothing bot.
+ But there is more than one right way to code your a do nothing bot.
+ The first thing you want to get down is consistancy. Making all your spaces the same
+ and "Santex". You will need to go back many time and look for any mispellings. 
+ Anything unwanted code can throw an error and/or give you unwanted results.
+ 
+- example: 
+          0| const mineflayer = require('mineflayer');
+          1| const bot = mineflayer.createBot()
+          
+        In this example this would be the bear bones that you need to just show up in a 
+     offline local server on your own pc with the defualts in mind.
+        With that I want to give you a piece of advice. Don't go for the latest and greatest.
+     Meaning use vanilla server like 1.8.9 and play with the code. Once you find that it 
+     works you can expand on the code and the versions of software you are actually here for.
+     It just makes knowing what your doing a bite easier to chew on and learn. Thank you.
+     
+Please help me make this for those that ned it. Again Thank you..
+```     
+You can get back to mineflayer here. (https://github.com/PrismarineJS/mineflayer)
